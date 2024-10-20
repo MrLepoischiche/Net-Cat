@@ -1,0 +1,8 @@
+go 1.23.0
+
+use (
+    .
+    ./colors
+    ./common
+    ./netcat_user
+)
